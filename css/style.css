@@ -86,6 +86,10 @@ section h3{
     margin-top:15px;
 }
 
+li{
+    list-style: none;
+}
+
 .arrow{
    font-size: 15px;
 
