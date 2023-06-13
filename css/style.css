@@ -9,12 +9,19 @@
 header{
     margin-bottom: 50px;
     background-color: white;
+    padding: 5px 20px;
+    font-weight: 900;
 }
 
 header h1{
     display: inline-block;
     line-height: 60px;
-    text-align: center;
+    vertical-align: middle;
+}
+
+header img{
+    height:50px;
+    vertical-align: middle;
 }
 
 .container{
@@ -29,6 +36,7 @@ main{
     width: 70%;
     margin: 0 auto;
     border-radius: 3px;
+    color: #444851;
 }
 
 nav{
@@ -69,14 +77,23 @@ section div{
     font-size: 0.5rem;
 }
 
+section h3{
+    color:#444851;
+    margin-left: 10px;
+    margin-top:15px;
+}
+
+.arrow{
+   font-size: 15px;
+
+}
 .cross{
     color: #EB5A53;
     border: 1.5px solid #EB5A53;
     font-weight: bold;
 }
 
-span{
-    background-color: #45ABEA;
+.label{
     border-radius: 10px;
     font-size: 0.60rem;
     padding: 5px 10px;
@@ -101,6 +118,10 @@ span{
 
 .Sales{
     background-color:#B0C926;
+}
+
+.Editorial{
+    background-color: #45ABEA;
 }
 
 
