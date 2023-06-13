@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 header{
@@ -58,6 +60,19 @@ section{
 
 section div{
     display: inline-block;
+    color:#97D8CA;
+    border: 1px solid #97D8CA;
+    border-radius: 60%;
+    padding: 3px;
+    margin: 10px;
+    font-weight: bolder;
+    font-size: 0.5rem;
+}
+
+.cross{
+    color: #EB5A53;
+    border: 1.5px solid #EB5A53;
+    font-weight: bold;
 }
 
 
