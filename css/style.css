@@ -95,7 +95,8 @@ li > *{
 }
 
 .arrow{
-   font-size: 15px;
+   font-size: 25px;
+   vertical-align: middle;
 }
 
 .cross{
